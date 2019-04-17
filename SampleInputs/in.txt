@@ -1,0 +1,31 @@
+private class A{
+	int a,b;
+}
+
+public class Prime {
+
+    public static void main() {
+    int a=10;
+    char b;
+    A obj=new A();
+    System.out.println("Number :",+ obj.a)
+    if(a=b)
+    {
+    	a=0;
+    }
+    else if(b>a){
+    	a=b;
+    }
+    while(a=10)
+    {
+    	x=x+1;
+    }
+    for(int i=0;i<5;i++)
+    {
+    	if(a>2)
+    	{
+    		a=10;
+    	} 
+    }
+}
+}
